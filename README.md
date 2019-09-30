@@ -1,5 +1,5 @@
 # system-icons module
-A module that contains the Lumin system icons that can optionally be used with a React-Native project that utilizes the [react-native-magic-script](https://github.com/magic-script/react-native-magic-script) library. After installing this module, the magic-script components will automatically use the new icons.
+A module that contains the Lumin system icons that can optionally be used with a React Native project that utilizes the [react-native-magic-script](https://github.com/magic-script/react-native-magic-script) library. After installing this module, the magic-script components will automatically use the new icons.
 
 ## Install steps
 Prerequisites: app should base on React-Native >= 0.60.0
