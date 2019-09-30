@@ -1,0 +1,11 @@
+{
+  "name": "system-icons",
+  "version": "1.0.0",
+  "dependencies": {
+    "path": "^0.12.7",
+    "fs-extra": "^8.1.0"
+  },
+  "scripts": {
+    "postinstall": "node copy-icons.js"
+  }
+}
