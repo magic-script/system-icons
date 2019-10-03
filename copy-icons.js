@@ -3,7 +3,7 @@ var fse = require("fs-extra");
 var path = require("path");
 
 var currentDirPath = path.resolve();
-var basePath = currentDirPath.concat("/../../assets/icons/");
+var basePath = currentDirPath.concat("/../../assets/lumin_system_icons/");
 // check if assets folder exists
 !fs.existsSync(basePath) && fs.mkdirSync(basePath);
 if (fs.existsSync(basePath)) {
